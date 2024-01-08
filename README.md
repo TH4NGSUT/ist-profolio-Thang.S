@@ -7,6 +7,8 @@ This Is My IST Profolio. In This repository I will be adding projects and exerci
 The Basic git commands to update this repo are:
 ```
 git add .
-git commit -m "Hello :space_invader:"
+git commit -m "Hello"
 git push
 ```
+
+![Sur](surprised-shocked-scared-or-astonished-emoticon-with-wild-take-eyes-popping-out-and-jaw-dropping-2BWX971.jpg)
