@@ -1,4 +1,4 @@
-# Thang Prortfolio 7th Period
+# Thang Profolio 7th Period
 
 [Thang IST Profolio](https://github.com/TH4NGSUT/ist-profolio-Thang.S)
 
