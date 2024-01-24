@@ -6,9 +6,12 @@ int main()
 	float gpa;
 	char grade;
 
-	scanf("how old are you: %i\n", &age);
-	scanf("what is your gpa: %f\n", &gpa);
-	scanf("what grade are you in: %c\n", &grade);
+	printf("Enter Your age: ");
+	scanf("%i\n", &age);
+	printf("What Is Your Gpa: ");
+	scanf("%f\n", &gpa);
+	prinf("What Grade are You In: ");
+	scanf("%c\n", &grade);
 
 	return 0;
 }
